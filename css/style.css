@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Montserrat&display=swap');
+
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/form.css");
+
+body {
+  font-family: 'Comfortaa', serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: #F7F7F7;
+}
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+	font-size: 30px;
+	font-family: 'Comfortaa', sans-serif;
+}
+
+h3 {
+	font-family: 'Comfortaa', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	transition: 0.2s;
+}

@@ -1,0 +1,18 @@
+.btn {
+  background-color: #C18650;
+  padding: 20px 24px;
+  border-radius: 6px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Montserrat';
+  transition: .1s; 
+}
+
+.btn:hover {
+	background-color: #92431F;
+}
+
+.btn-bis:hover {
+	transform: scale(1.05); 
+	transition: .2s;
+}
